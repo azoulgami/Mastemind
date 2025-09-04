@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MasterMind
+comment1.params=
+comment1.target=void\ main()
+comment2.params=colors
+comment2.target=void\ MakeAnswer(char[])
+comment3.params=playerChoice
+comment3.target=void\ Ask(char[])
+comment4.params=colors\ colorsCopy\ playerChoice\ playerChoiceCopy
+comment4.target=void\ CopyArray(char[],\ char[],\ char[],\ char[])
+comment5.params=colorsCopy\ playerChoice\ circle
+comment5.target=void\ Check(char[],\ char[],\ java.lang.String[][])
+comment6.params=colorsCopy\ playerChoice\ circle
+comment6.target=void\ Exact(char[],\ char[],\ java.lang.String[][])
+numComments=7
